@@ -1,4 +1,4 @@
-idiom_crawler
+Idiom Crawler
 =============
 
 the crawler for idioms

@@ -1,0 +1,30 @@
+{
+    "author": "Zixiang Tang",
+    "name": "idiom_crawler",
+    "description": "Idiom Crawler",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "dependencies": {
+        "async": "latest",
+        "lodash": "latest",
+        "datejs": "latest",
+        "string": "latest",
+        "moment-timezone": "latest",
+        "moment": "latest",
+        "mkdirp": "latest",
+        "archiver": "latest",
+        "redis": "latest",
+        "temp": "latest",
+        "crawler": "latest",
+        "uri-js": "latest"
+    },
+    "devDependencies": {
+        "mocha": "latest",
+        "should": "latest"
+    },
+    "scripts": {
+        "start": "node executors/start"
+    }
+}
