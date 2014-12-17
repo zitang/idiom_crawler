@@ -1,7 +1,6 @@
 'use strict';
 
 var indexCrawler = require('../services/indexCrawler').indexCrawler;
-var url = require('url');
 var _ = require('lodash');
 
 var alphas = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split('');
